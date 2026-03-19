@@ -1,0 +1,17 @@
+🔐 FullSpeed VPN URI生成汇总报告
+==================================================
+生成时间：2026-03-19 06:53:37
+处理套餐：free, premium
+总节点数：38
+成功节点(≥1协议)：31
+失败请求：14
+  - Free节点：7
+  - Premium节点：31
+  - VLESS成功：31
+  - VMESS成功：31
+
+文件保存路径：
+  - VLESS节点：vless_nodes/vless_all_nodes.txt
+  - VMESS节点：vmess_nodes/vmess_all_nodes.txt
+  - 汇总文件：all_nodes.txt
+  - 输出根目录：/home/runner/work/FullSpeed/FullSpeed/daily_output
